@@ -65,5 +65,10 @@ The <strong>majority (80.4%)</strong> of the Google Play Apps are directed towar
 
 ![minimum android version required](minimum-android-version-required.png)
 
-## 8. Most Common Words in Reviews
+## 8. Review Sentiment
+Users are more likely to leave <strong>Positive reviews (64.1%)</strong>.
+
+![Review sentiment - pieplot](review-sentiment.png)
+
+## 9. Most Common Words in Reviews
 ![most common words - wordcloud](most-common-words.png)
