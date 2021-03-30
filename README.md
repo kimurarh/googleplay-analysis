@@ -12,7 +12,8 @@ We'll be using data visualizations to answer some questions:
 5. What is the average size of an app?
 6. How is the content rating distribution for apps?
 7. What is the minimum android version required by most apps?
-8. What are the most common words in reviews?
+8. Are people more likely to leave positive or negative reviews?
+9. What are the most common words in reviews?
 
 To view the visualizations, [click here](https://github.com/kimurarh/googleplay-analysis/tree/main/visualization#Visualization)
 
